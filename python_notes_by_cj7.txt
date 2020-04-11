@@ -1,0 +1,25 @@
+Compilation vs Interpretation
+**********************************
+
+Advantages of Compilation
+=========================
+-the execution of tranlated code is usually faster.
+-only the user has to have the compiler ( the end-user may use the code without it )
+-the translated code is stored using machine language. ( it is hard to understand it which is written in machine language)
+ So, your own inventions and programming tricks are likely to remain your secret.
+
+Disadvantages of Compilation
+============================
+-the compilation itself may be a very time-consuming process.( you may not be able to run your code immediately after any amendment.)
+-you have to have as many compilers as hardware platforms you want your code to be run on.
+
+Advantages of Interpretation
+============================
+-you can run the code immediately as soon as you complete it. There are no additional phrases of translation.
+-The code is stored using programming language,not the machine one. This means that it can be run on computers using different machine languages. You don't need to 
+ compile your code separately for each architecture.
+
+Disadvantages of Interpretation
+===============================
+-Don't expect that interpretation will ramp your code to high speed.( Your code will share computer's power with the interpreter, so it can't be really fast.
+-Both you and end-user have to have the interpreter to run the code.
