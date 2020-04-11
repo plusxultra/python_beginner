@@ -24,8 +24,8 @@ Disadvantages of Interpretation
 -Don't expect that interpretation will ramp your code to high speed.( Your code will share computer's power with the interpreter, so it can't be really fast.
 -Both you and end-user have to have the interpreter to run the code.
 
-Python is an interpreted language.<br>
-If you want to program in python, You will need python interpreter.<br>
-Luckily, Python is free.<br>
-Due to historical reasons, languages designed to be utilized in the interpretation manner are often called scripting languages,<br>
+Python is an interpreted language.
+If you want to program in python, You will need python interpreter.
+Luckily, Python is free.
+Due to historical reasons, languages designed to be utilized in the interpretation manner are often called scripting languages,
 while the source programs encoded using them are called scripts.
